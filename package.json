@@ -1,0 +1,20 @@
+{
+  "name": "starter",
+  "version": "0.0.0",
+  "description": "Template starter project for node js",
+  "main": "jet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-jet/starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/node-jet/starter/issues"
+  },
+  "homepage": "https://nodejet.org"
+}
