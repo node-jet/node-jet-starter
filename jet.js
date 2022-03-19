@@ -1,3 +1,6 @@
 #!/usr/bin/env node
 
-console.log('NODE JET is currently under development, this is just a placeholder until then.')
+const { JetCli, JetConsoleKernel } = require('node-jet-console');
+const { AppCliKernel } = require('./src/console/kernel');
+
+JetCli(__dirname, [JetConsoleKernel, AppCliKernel])

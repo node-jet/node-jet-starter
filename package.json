@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/node-jet/starter/issues"
   },
-  "homepage": "https://nodejet.org"
+  "homepage": "https://nodejet.org",
+  "dependencies": {
+    "node-jet-console": "^0.0.9"
+  }
 }
