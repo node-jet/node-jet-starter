@@ -18,6 +18,6 @@
   },
   "homepage": "https://nodejet.org",
   "dependencies": {
-    "jetngin-console": "^0.0.5"
+    "jetngin-console": "^0.0.69"
   }
 }
